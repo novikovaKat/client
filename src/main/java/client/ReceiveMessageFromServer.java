@@ -37,7 +37,7 @@ public class ReceiveMessageFromServer implements Runnable{
             }
             
             if(serverMessage!= null){
-                System.out.println(serverMessage + "\nEnter your message:");
+                System.out.println(serverMessage + "\nEnter message:");
             }
             
         }
